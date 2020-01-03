@@ -7,6 +7,7 @@ public class aa {
 		String bb= "aaaaa";
 		
 	    int a=968;
+	    System.out.println(a);
 }
 	
     
