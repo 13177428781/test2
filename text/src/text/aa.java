@@ -5,7 +5,7 @@ public class aa {
 	String s ="abc";
 	String bb= "c";
 	
-    int a=0;
+    int a=968;
 
 	
 }
