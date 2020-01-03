@@ -2,10 +2,15 @@ package text;
 
 public class aa {
   
-	String s ="abc";
-	String bb= "aaaaa";
+	public static void main(String[] args) {
+		
+		String s ="abc";
+		String bb= "aaaaa";
+		
+	    int a=968;
+	    System.out.println(bb);
+	}
 	
-    int a=968;
 
 	
 }
